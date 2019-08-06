@@ -1,4 +1,3 @@
-		<?xml version="1.0" encoding="UTF-8"?>
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		xmlns:android = "http://schemas.android.com/apk/res/android"
@@ -53,24 +52,24 @@
 		<platform name="ios">
 		</platform>
 		<platform name="android">
-		<icon src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\aitie_6.png" qualifier="ldpi" />
-		<icon src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\aitie_5.png" qualifier="mdpi" />
-		<icon src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\aitie_4.png" qualifier="hdpi" />
-		<icon src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\aitie_3.png" qualifier="xhdpi" />
-		<icon src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\aitie_2.png" qualifier="xxhdpi" />
-		<icon src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\aitie_1.png" qualifier="xxxhdpi" />
-		<splash src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\splash\ldpi1.png" qualifier="" />
-		<splash src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\splash\ldpi2.png" qualifier="" />
-		<splash src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\splash\mdpi1.png" qualifier="" />
-		<splash src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\splash\mdpi2.png" qualifier="" />
-		<splash src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\splash\hdpi1.png" qualifier="" />
-		<splash src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\splash\hdpi2.png" qualifier="" />
-		<splash src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\splash\xhdpi1.png" qualifier="" />
-		<splash src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\splash\xhdpi2.png" qualifier="" />
-		<splash src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\splash\xxhdpi1.png" qualifier="" />
-		<splash src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\splash\xxhdpi2.png" qualifier="" />
-		<splash src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\splash\xxxhdpi1.png" qualifier="" />
-		<splash src="file://C:\Users\CODL_UNILORIN\Desktop\AITIE Presentations\workshop\pub\assets\images\splash\xxxhdpi2.png" qualifier="" />
+		<icon src="assets/images/aitie_6.png" qualifier="ldpi" />
+		<icon src="assets/images/aitie_5.png" qualifier="mdpi" />
+		<icon src="assets/images/aitie_4.png" qualifier="hdpi" />
+		<icon src="assets/images/aitie_3.png" qualifier="xhdpi" />
+		<icon src="assets/images/aitie_2.png" qualifier="xxhdpi" />
+		<icon src="assets/images/aitie_1.png" qualifier="xxxhdpi" />
+		<splash src="assets/images/splash/ldpi1.png" qualifier="" />
+		<splash src="assets/images/splash/ldpi2.png" qualifier="" />
+		<splash src="assets/images/splash/mdpi1.png" qualifier="" />
+		<splash src="assets/images/splash/mdpi2.png" qualifier="" />
+		<splash src="assets/images/splash/hdpi1.png" qualifier="" />
+		<splash src="assets/images/splash/hdpi2.png" qualifier="" />
+		<splash src="assets/images/splash/xhdpi1.png" qualifier="" />
+		<splash src="assets/images/splash/xhdpi2.png" qualifier="" />
+		<splash src="assets/images/splash/xxhdpi1.png" qualifier="" />
+		<splash src="assets/images/splash/xxhdpi2.png" qualifier="" />
+		<splash src="assets/images/splash/xxxhdpi1.png" qualifier="" />
+		<splash src="assets/images/splash/xxxhdpi2.png" qualifier="" />
 		</platform>
 		<platform name="winphone">
 		</platform>
